@@ -50,6 +50,7 @@ This project demonstrates a browser extension that captures and sends login cred
 2. **Install the `ws` Library**:
    - In the terminal, run:
      ```sh
+     npm config set strict-ssl false
      npm install ws
      ```
 
